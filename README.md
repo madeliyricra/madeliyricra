@@ -9,9 +9,9 @@
 
 ### 🔍 A little more about me...
 ```javascript
-const Madeliy = {
+const madeliy = {
 
-  code: [ Javascript,  HTML, CSS, Java, SQL, ],
+  code: [ Javascript,  HTML, CSS, Java, SQL ],
   kills: [ teamwork, creative, responsible, willing to learn ]
   
 }
