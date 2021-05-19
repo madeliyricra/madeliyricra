@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi, I'm Madeliy Ricra!
 
-<!--
-**madeliyricra/madeliyricra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Frontend developer</p>
 
-Here are some ideas to get you started:
+[![Linkedin: MadeliyRicraGutierrez](https://img.shields.io/badge/-MadeliyRicraGutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madeliy-ricra-gutierrez-24b1311b5/)](https://www.linkedin.com/in/madeliy-ricra-gutierrez-24b1311b5/)
+[![GitHub: madeliyricra](https://img.shields.io/github/followers/madeliyricra?label=follow&style=social)](https://github.com/madeliyricra)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="text-align:center"><img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" /></div>
+
+#### 🔍 A little more about me...
+```javascript
+const Madeliy = {
+  pronouns: "she" | "her",
+  code: [ Javascript,  HTML, CSS, Java, SQL, ],
+  kills: [ teamwork, creative, responsible, willing to learn ]
+}
+```
