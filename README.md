@@ -11,7 +11,8 @@
 ```javascript
 const madeliy = {
 
-  code: [ HTML, CSS, Javascript, React Js, Angular, Typescript, Node Js, MongoDB, MySql ],
+  code: [ HTML, CSS, Javascript, React Js, Angular, 
+          Typescript, Node Js, MongoDB, MySql ],
   kills: [ teamwork, creative, responsible, willing to learn ]
   
 }
